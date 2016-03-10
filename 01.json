@@ -1,0 +1,97 @@
+{
+  "all_shortest_paths": [
+    {
+      "path": [
+        {
+          "from": "4nYyKazL6D0Rzbol", 
+          "proximity": 2, 
+          "to": "xVeYrEKEwDqM1mWZ"
+        }, 
+        {
+          "from": "xVeYrEKEwDqM1mWZ", 
+          "proximity": 3, 
+          "to": "5o0mzrNJ9B7rEPVk"
+        }, 
+        {
+          "from": "5o0mzrNJ9B7rEPVk", 
+          "proximity": 3, 
+          "to": "Xne3RObQQWLMPDZj"
+        }, 
+        {
+          "from": "Xne3RObQQWLMPDZj", 
+          "proximity": 2, 
+          "to": "NXne3ROD1LrPDZjm"
+        }, 
+        {
+          "from": "NXne3ROD1LrPDZjm", 
+          "proximity": 3, 
+          "to": "BLWbARpj39eae3DZ"
+        }, 
+        {
+          "from": "BLWbARpj39eae3DZ", 
+          "proximity": 2, 
+          "to": "9068a8A81DeMgJmo"
+        }, 
+        {
+          "from": "9068a8A81DeMgJmo", 
+          "proximity": 3, 
+          "to": "bGJprgdgjXdaOBYv"
+        }
+      ], 
+      "weight": 18
+    }
+  ], 
+  "fromNode": {
+    "name": "User experience", 
+    "source": 1462876, 
+    "uid": "4nYyKazL6D0Rzbol"
+  }, 
+  "nodes": [
+    {
+      "name": "Interaction design", 
+      "source": 527943, 
+      "uid": "5o0mzrNJ9B7rEPVk"
+    }, 
+    {
+      "name": "Design pattern", 
+      "source": 8745, 
+      "uid": "NXne3ROD1LrPDZjm"
+    }, 
+    {
+      "name": "Object-oriented programming", 
+      "source": 27471338, 
+      "uid": "9068a8A81DeMgJmo"
+    }, 
+    {
+      "name": "Data, context and interaction", 
+      "source": 25430994, 
+      "uid": "bGJprgdgjXdaOBYv"
+    }, 
+    {
+      "name": "User experience design", 
+      "source": 7945684, 
+      "uid": "xVeYrEKEwDqM1mWZ"
+    }, 
+    {
+      "name": "Software design pattern", 
+      "source": 164952, 
+      "uid": "BLWbARpj39eae3DZ"
+    }, 
+    {
+      "name": "Interaction design pattern", 
+      "source": 4271289, 
+      "uid": "Xne3RObQQWLMPDZj"
+    }, 
+    {
+      "name": "User experience", 
+      "source": 1462876, 
+      "uid": "4nYyKazL6D0Rzbol"
+    }
+  ], 
+  "toNode": {
+    "name": "Data, context and interaction", 
+    "source": 25430994, 
+    "uid": "bGJprgdgjXdaOBYv"
+  }, 
+  "weighted": "True"
+}

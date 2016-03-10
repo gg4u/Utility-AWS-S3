@@ -1,0 +1,57 @@
+{
+  "all_shortest_paths": [
+    {
+      "path": [
+        {
+          "from": "4nYyKazL6D0Rzbol", 
+          "proximity": 4, 
+          "to": "NXne3RO4E4brPDZj"
+        }, 
+        {
+          "from": "NXne3RO4E4brPDZj", 
+          "proximity": 5, 
+          "to": "JEN6Or93nQoMklVG"
+        }, 
+        {
+          "from": "JEN6Or93nQoMklVG", 
+          "proximity": 3, 
+          "to": "qZpxKrqNp3EaPX3w"
+        }
+      ], 
+      "weight": 12
+    }
+  ], 
+  "fromNode": {
+    "name": "User experience", 
+    "source": 1462876, 
+    "uid": "4nYyKazL6D0Rzbol"
+  }, 
+  "nodes": [
+    {
+      "name": "Data visualization", 
+      "source": 3461736, 
+      "uid": "qZpxKrqNp3EaPX3w"
+    }, 
+    {
+      "name": "Information architecture", 
+      "source": 185945, 
+      "uid": "NXne3RO4E4brPDZj"
+    }, 
+    {
+      "name": "User experience", 
+      "source": 1462876, 
+      "uid": "4nYyKazL6D0Rzbol"
+    }, 
+    {
+      "name": "Information design", 
+      "source": 234824, 
+      "uid": "JEN6Or93nQoMklVG"
+    }
+  ], 
+  "toNode": {
+    "name": "Data visualization", 
+    "source": 3461736, 
+    "uid": "qZpxKrqNp3EaPX3w"
+  }, 
+  "weighted": "True"
+}

@@ -1,0 +1,107 @@
+{
+  "all_shortest_paths": [
+    {
+      "path": [
+        {
+          "from": "4nYyKazP8e9Rzbol", 
+          "proximity": 3, 
+          "to": "4nYyKazL6D0Rzbol"
+        }, 
+        {
+          "from": "4nYyKazL6D0Rzbol", 
+          "proximity": 4, 
+          "to": "NXne3RO4E4brPDZj"
+        }, 
+        {
+          "from": "NXne3RO4E4brPDZj", 
+          "proximity": 5, 
+          "to": "JEN6Or93nQoMklVG"
+        }, 
+        {
+          "from": "JEN6Or93nQoMklVG", 
+          "proximity": 3, 
+          "to": "qZpxKrqNp3EaPX3w"
+        }
+      ], 
+      "weight": 15
+    }, 
+    {
+      "path": [
+        {
+          "from": "4nYyKazP8e9Rzbol", 
+          "proximity": 2, 
+          "to": "xVeYrEKEwDqM1mWZ"
+        }, 
+        {
+          "from": "xVeYrEKEwDqM1mWZ", 
+          "proximity": 3, 
+          "to": "voDXao5835XRW5Z4"
+        }, 
+        {
+          "from": "voDXao5835XRW5Z4", 
+          "proximity": 2, 
+          "to": "NXne3RO4E4brPDZj"
+        }, 
+        {
+          "from": "NXne3RO4E4brPDZj", 
+          "proximity": 5, 
+          "to": "JEN6Or93nQoMklVG"
+        }, 
+        {
+          "from": "JEN6Or93nQoMklVG", 
+          "proximity": 3, 
+          "to": "qZpxKrqNp3EaPX3w"
+        }
+      ], 
+      "weight": 15
+    }
+  ], 
+  "fromNode": {
+    "name": "Usability", 
+    "source": 288276, 
+    "uid": "4nYyKazP8e9Rzbol"
+  }, 
+  "nodes": [
+    {
+      "name": "Data visualization", 
+      "source": 3461736, 
+      "uid": "qZpxKrqNp3EaPX3w"
+    }, 
+    {
+      "name": "Experience architecture", 
+      "source": 37136779, 
+      "uid": "voDXao5835XRW5Z4"
+    }, 
+    {
+      "name": "Information design", 
+      "source": 234824, 
+      "uid": "JEN6Or93nQoMklVG"
+    }, 
+    {
+      "name": "User experience design", 
+      "source": 7945684, 
+      "uid": "xVeYrEKEwDqM1mWZ"
+    }, 
+    {
+      "name": "Information architecture", 
+      "source": 185945, 
+      "uid": "NXne3RO4E4brPDZj"
+    }, 
+    {
+      "name": "Usability", 
+      "source": 288276, 
+      "uid": "4nYyKazP8e9Rzbol"
+    }, 
+    {
+      "name": "User experience", 
+      "source": 1462876, 
+      "uid": "4nYyKazL6D0Rzbol"
+    }
+  ], 
+  "toNode": {
+    "name": "Data visualization", 
+    "source": 3461736, 
+    "uid": "qZpxKrqNp3EaPX3w"
+  }, 
+  "weighted": "True"
+}
